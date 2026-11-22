@@ -1,5 +1,7 @@
 # Contributing
 
+Open an issue before starting anything bigger than a small fix, so we can agree on the approach. Keep pull requests small and focused, and fill in the PR template. A project's own CONTRIBUTING.md wins over this one.
+
 ## Reviewing
 
 Start every review comment with one label:
